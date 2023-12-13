@@ -22,11 +22,9 @@
   },
   "homepage": "https://github.com/mapillary/sprite-source#readme",
   "devDependencies": {
-    "spritezero-cli": "1.1.0"
-  },
-  "dependencies": {
     "brfs": "1.4.3",
     "browserify": "13.1.1",
+    "spritezero-cli": "1.1.0",
     "xml2js": "^0.4.19"
   }
 }
