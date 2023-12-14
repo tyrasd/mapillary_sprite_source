@@ -1,0 +1,15 @@
+{
+  "name": "@rapideditor/mapillary_sprite_source",
+  "version": "1.8.0",
+  "description": "Source repository of `svg` files to generate sprites for mapillary.com",
+  "license": "MIT",
+  "contributors": [
+    "Bryan Housel <bhousel@gmail.com> (https://github.com/bhousel)",
+    "Ben Clark <bennyc@gmail.com> (https://github.com/Bonkles)"
+  ],
+  "main": "",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  }
+}
